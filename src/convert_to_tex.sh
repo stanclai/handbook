@@ -19,7 +19,9 @@ DATE=${DATE:-`date +%F`}
 cat > $DIR/main.tex <<EOF
 \documentclass[oribibl]{scrbook}
 
-\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[T2A,T1]{fontenc}
+\usepackage[russian,english]{babel}
 \usepackage{amsmath,amssymb,latexsym}
 \usepackage{algorithm, algorithmic}
 \usepackage{graphicx}
