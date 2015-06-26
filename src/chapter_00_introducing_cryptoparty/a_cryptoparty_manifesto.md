@@ -1,39 +1,39 @@
-A CryptoParty Manifesto
-=======================
+Манифест Криптовечеринки
+========================
 
-> **"Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." - Oscar Wilde**
+> **"Человек бывает наименее естественным, когда говорит от своего лица. Дайте ему маску, и он скажет вам правду." - Оскар Уайлд**
 
-In 1996, John Perry Barlow, co-founder of the [Electronic Frontier Foundation (EFF)](https://www.eff.org/), wrote 'A Declaration of the Independence of Cyberspace'. It includes the following passage:
+В 1996 году Джон Перри Барлоу, сооснователь [Electronic Frontier Foundation (EFF)](https://www.eff.org/), написал «Декларацию независимости киберпространства». Вот отрывок из неё:
 
-> Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live.
+> Киберпространство состоит из транзакций, отношений и, мыслимое само по себе, скомпоновано как стоячая волна в сети наших коммуникаций. Нашим является мир, который одновременно везде и нигде, но не там, где живут наши тела.
 
-> We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.
+> Мы создаём мир, в который могут прийти все независимо от заслуг или чьих-либо предубеждений относительно расы, экономического могущества, военной силы или места рождения.
 
-> We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity.
+> Мы создаём мир,где каждый где угодно может выражать свои убеждения, какими бы необычными они ни казались, без страха быть принуждённым молчать или соответствовать нормам.
 
-Sixteen years later, and the Internet has changed the way we live our lives. It has given us the combined knowledge of humankind at our fingertips. We can form new relationships and  share our thoughts and lives with friends worldwide. We can organise, communicate and collaborate in ways never thought possible. This is the world we want to hand down to our children, a world with a free Internet.
+Минуло шестнадцать лет, и Интернет изменил течение наших жизней. Благодаря ему объединённое знание всего человечества оказалось на кончиках наших пальцев. Мы можем выстраивать новые отношения и разделять наши мысли и жизни с друзьями по всему миру. Мы можем организовывать структуры, общаться и сотрудничать такими способами, которые раньше казались совершенно невозможными. Это мир, который мы хотим передать нашим детям, мир свободного Интернета.
 
-Unfortunately, not all of John Perry Barlow's vision has come to pass. Without access to online anonymity, we can not be free from privilege or prejudice. Without privacy, free expression is not possible.
+К сожалению, не всем мечтам Джона Перри Барлоу суждено было сбыться. Без возможности анонимного доступа онлайн мы не можем быть свободными от неравенства или предрассудков. Без сохранения тайны личности свобода выражения мнений невозможна.
 
-The problems we face in the 21st Century require all of humanity to work together. The issues we face are serious: climate change, energy crises, state censorship, mass surveillance and on-going wars. We must be free to communicate and associate without fear. We need to support free and open source projects which aim to increase the commons' knowledge of technologies that we depend on [http://opensourceecology.org/wiki](http://opensourceecology.org/wiki) Contribute!
+Проблемы, с которыми мы столкнулись в XXI веке, требуют слаженной работы всего человечества. Мы стоим лицом к лицу перед серьёзными угрозами: изменение климата, энергетические кризисы, государственная цензура, вопросы массового выживания и непрекращающиеся войны. Мы обязаны свободно общаться и объединяться без страха. Нам необходимо поддерживать свободные проекты и проекты с открытым исходным кодом, которые нацелены на увеличение общедоступного знания о технологиях, от которых мы зависим [http://opensourceecology.org/wiki](http://opensourceecology.org/wiki). Так давайте сотрудничать!
 
-To realise our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions. CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online.
+Для реализации нашего права на тайну частной жизни и анонимность в онлайне нам нужны решения, которые может проверить любой участник и которые исходят от сообщества. Криптовечеринки как раз и предоставляют возможность встретиться и научиться тому, как использовать эти решения, чтобы они дали нам максимум возможностей отстоять свои права на тайну частной жизни и анонимность в онлайне.
 
-1. We are all users, we fight for the user and we strive to empower the user. We assert user requests are why computers exist. We trust in the collective wisdom of human beings, not software vendors, corporations or governments. We refuse the shackles of digital gulags, lorded over by vassal interests of governments and corporations. We are the CypherPunk Revolutionaries.
+1. Все мы пользователи, мы сражаемся за пользователя и стремимся максимально расширить права пользователя. Мы настаиваем на том, что именно задачи пользователя являются причиной существования компьютера. Мы верим в коллективную мудрость людей, а не продавцов программного обеспечения, не корпораций или правительств. Мы отвергаем кандалы цифровых гулагов, управляемых вассальными интересами правительств и корпораций. Мы — революционеры шифропанка.
 
-2. The right to personal anonymity, pseudonymity and privacy is a basic human right. These rights include life, liberty, dignity, security, right to a family, and the right to live without fear or intimidation. No government, organisation or individual should prevent people from accessing the technology which underscores these basic human rights.
+2. Право на личную анонимность, возможность скрыть своё имя и тайну частной жизни — это базовое право человека. Базовые права включают в себя жизнь, свободу, достоинство, безопасность, право формировать семью и право жить без страха и запугиваний. Ни одно правительство, организация или же отдельный человек не должны ограничивать людям доступ к технологиям, поддерживающим эти базовые права человека.
 
-3. Privacy is the right of the individual. Transparency is a requirement of governments and corporations who act in the name of the people. 
+3. Тайна частной жизни — право каждого отдельного человека. Прозрачность — требование правительств и корпораций, действующих «от имени людей».
 
-4. The individual alone owns the right to their identity. Only the individual may choose what they share. Coercive attempts to gain access to personal information without explicit consent is a breach of human rights.
+4. Только самому индивиду принадлежит право распоряжаться своей идентичностью. Только сам индивид вправе выбирать, что можно публиковать. Настойчивые попытки получить доступ к персональной информации без явного на то согласия являются нарушением прав человека.
 
-5. All people are entitled to cryptography and the human rights crypto tools afford, regardless of race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth, political, jurisdictional or international status of the country or territory in which a person resides.
+5. Все люди имеют право на использование криптографии, а также на предоставление им криптографических средств, обеспечивающих исполнение прав человека, вне зависимости от расы, цвета, пола, языка, религиозных, политических или иных убеждений, национальности или социального происхождения, собственности, рождения, а также юрисдикции, политического или международного статуса страны, на территории которой находится человек.
 
-6. Just as governments should exist only to serve their citizens - so too, cryptography should belong to the people.Technology should not be locked away from the people. 
+6. Точно так же, как правительства обязаны существовать только для того, чтобы служить своим гражданам, в равной мере и криптография должна принадлежать людям. Нельзя блокировать людям доступ к технологии.
 
-7. Surveillance cannot be separated from censorship, and the slavery it entails. No  machine shall be held in servitude to surveillance and censorship. Crypto is a key to our collective freedom.
+7. Слежка не может быть отделена от цензуры и от рабства, которое она за собой влечёт. Ни одна машина не должна быть порабощена для осуществления слежки и цензуры. Криптография — ключ к нашей коллективной свободе.
 
-8. Code is speech: code is human created language. To ban, censor or lock cryptography away from the people is to deprive human beings from a human right, the freedom of speech.
+8. Код — это речь: код — язык, созданный людьми. Запрещать, подвергать цензуре или блокировать криптографию в человеческом обществе — значит лишать людей их естественного права, права на свободу слова.
 
-9. Those who would seek to stop the spread of cryptography are akin to the 15th century clergy seeking to ban the printing press, afraid their monopoly on knowledge will be undermined.
+9. Те же, кто попытался бы остановить распространение криптографии, уподобились бы клерикалам XV века с их жалкими поползновениями запретить печатное дело, боящимся, что их монополия на знания будет подорвана.
  
