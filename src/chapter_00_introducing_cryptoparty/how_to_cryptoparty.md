@@ -1,84 +1,85 @@
-How To CryptoParty
-==================
+Как оттянуться на криптовечеринке
+=================================
 
- * Throw a party. All you need is a time, a date and a location. Add it to the wiki: [https://cryptoparty.org](https://cryptoparty.org).
+ * Объявите о криптовечеринке. Всё, что вам нужно — это время, дата и место. Добавьте информацию в вики: [https://cryptoparty.org](https://cryptoparty.org).
 
- * Make sure you have Internet connectivity and enough power sources for all devices. If you do not have a place to hold a CryptoParty, find a pub or park where you can meet and squeeze the public bandwidth. That will really hone your skills!
+ * Удостоверьтесь, что у вас есть доступ в Интернет и достаточно питания для всех устройств. Если у вас нет помещения, чтобы устроить криптовечеринку, найдите какой-нибудь паб или парк, где вы сможете встретиться и втиснуться в общедоступный канал. На самом деле это поспособствует оттачиванию ваших навыков!
 
- * Bring USB sticks and printed handouts for those who need them, and set up old computers for people to fiddle with and try out new skills.
+ * Возьмите USB-флэшки и распечатанную раздатку для тех, кому они понадобятся, и заведите несколько старых компов, чтобы народ мог с ними повозиться и отработать новые навыки.
 
- * Talk about Linux to everyone you meet at your CryptoParty. If you are new to CryptoParties - ask someone "what is Linux?" ASAP.
+ * Говорите про Линукс с каждым, кого встретите на вашей криптовечеринке. Если вы здесь новенький — немедленно спросите кого-нибудь: «Что такое Линукс?»
 
- * Make entry free for all if possible - CryptoParties are not-for-profit, not commercially aligned and especially important for those without other resources.
+ * Сделайте вход свободным для всех, если это возможно. Криптовечеринки устраиваются не для получения дохода, они не ориентированы на коммерческую выгоду и особенно важны для тех, у кого нет других ресурсов.
 
- * Teach basic cryptographic tools to the masses. Crowd-source the best crypto. We suggest PGP, OTR, and Tor as the first tools to install.
+ * Несите знания о криптографических инструментах в массы. Примите участие в крауд-сорсинге лучшего крипто-средства. В первую очередь мы рекомендуем устанавливать PGP, OTR и Tor.
 
- * Invite experts and non-experts from all fields. Everyone is an expert on something.
+ * Приглашайте как экспертов, так и не экспертов по всевозможным предметам. Каждый является экспертом в чём-то.
 
- * If you want CryptoParty to do something, start doing it. Organise organically and chaotically. Have no clear leadership. Urge people to take on a sudo leadership role - take a tutorial, fix the wifi, update the wiki, or organise the next CryptoParty. If someone claims others are doing it wrong - invite them to nominate themselves to do it better.
+ * Если вы хотите получить что-то от криптовечеринки, начните делать это сами. Организуйте процессы органично и хаотически. Пусть у вас не будет явного лидера. Мотивируйте людей «использовать роль лидера через sudo» для чего угодно: принять участие в мастер-классе, настроить wifi, обновить вики, организовать следующую криптовечеринку, в конце концов. Если кто-то заявляет, что другие делают что-то неправильно, предложите этому человеку взять на себя ответственность и сделать это лучше.
 
- * Ask for feedback. Assimilate critics - ask them for their help in creating a better CryptoParty. Do not be scared to troll the trolls back or boot them from your space. Share feedback on the wiki. Iterate.
+ * Просите людей дать вам обратную связь. Утилизируйте критиков: приглашайте их в качестве помощников для организации следующей криптовечеринки, которая должна быть лучше. Не бойтесь троллить троллей или выпинывать их с вашей площадки. Публикуйте разбор полётов в вики. Повторяйте снова.
 
- * A successful CryptoParty can have as many or as few as two people. Size doesn't count, it's what you do with it that matters. The criterion for success should be that everyone had fun, learned something and wants to come to the next party.
+ * Чтобы криптовечеринка удалась, достаточно двух человек (много это или мало, это другой вопрос). Размер не имеет значения, главное — что́ вы будете с этим делать. Успех же криптовечеринки следует оценивать исходя из того, было ли всем интересно, научились ли участники чему-то новому и хотят ли прийти на следующее мероприятие.
 
- * Think of the CryptoParty movement as a huge Twitter hive ready to swarm at any moment. Tweet a lot, and make your tweets meaningful. ReTweet other CryptoPartiers frequently.
+ * Думайте о движении криптовечеринок как о большом twitter-улье, готовом в любой момент начать роиться. Публикуйте множество твитов, но делайте ваши твиты осмысленными. Чаще ретвитьте других участников криптовечеринок.
 
- * Make sure the way crypto is taught at your party could be understood by a 10 year old. Then have the 10 year old teach it to an 80 year old. Breach the digital divide with random acts of awesomeness such as unfettered use of images of kittens in all CryptoParty literature. Red underpants on heads is only mandatory if you wish to bid in our spectrum auction.
+ * Убедитесь, что способ подачи на вашей вечеринке материала о шифровании будет понятен даже 10-летнему. А потом найдите этого 10-летнего, и пусть он научит кого-нибудь, кому за 80. Пробивайте стены цифровой тюрьмы спонтанными улётно-безбашенными действиями типа наводнения всей литературы на криптовечеринке изображениями котиков. Впрочем, нижнее бельё красного цвета, надетое на голову, будет обязательным только в том случае, если вы захотите участвовать в нашем радиочастотном аукционе.
 
- * Consider hosting private, off-the-radar CryptoParties for activists, journalists and in individuals working in dangerous locations.
+ * Рассмотрите возможность проведения частных, неафишируемых криптовечеринок для активистов, журналистов и отдельных людей, чья работа связана с повышенным риском.
 
- * Don't scare non-technical people. Don't teach command lines before people know where the on-off buttons are located on their laptops. Everyone learns at their own pace -  make sure there is support for those in need of help.
+ * Не запугивайте технически неподготовленных людей. Не учите их работать в командной строке, прежде чем они будут в состоянии найти кнопку включения/выключения на своём ноутбуке. Каждый учится в своём индивидуальном темпе, поэтому убедитесь в том, что вы способны предоставить поддержку тем, кто в ней нуждается.
 
- * Doing excellent stuff at CryptoParty does not require permission or an official consensus decision. If you're uncertain about the excellence of something you want to do, you should ask someone else what they think.
+ * Для того, чтобы сделать что-то по-настоящему выдающееся на криптовечеринке, не нужно получать разрешение или требовать официального коллегиального решения. Если вы не совсем уверены в степени нетленности вашего потенциального шедевра, просто попросите высказать своё мнение по этому вопросу ещё кого-нибудь.
 
- * Consider the need for a bouncer, particularly if your CryptoParty expects over 50 people. Dress the bouncer up as a Sumo wrestler. Do not be afraid to bounce people who breach CryptoParty's anti-harassment policy.
+ * На всякий случай помните, что вам может понадобиться вышибала; особенно, если ожидается участие более 50 человек. Оденьте вашего вышибалу, как борца сумо. Не бойтесь выкидывать тех, кто нарушает политику социального взаимодействия вашей криптовечеринки.
 
- * CryptoParty is dedicated to providing a harassment-free sharing experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, heritage, or religion. Behaving like an arsehole may mean you are permanently uninvited to CryptoParties events. Harassment includes:
+ * Одна из целей криптовечеринки — предоставить каждому опыт взаимодействия, основанного на взаимном уважении, вне зависимости от пола, гендерной самоидентификации, физических возможностей, особенностей внешнего вида, веса, происхождения или религиозных убеждений. Тех же, кто ведёт себя, как чудак на букву «м», на подобные мероприятия приглашать не сто́ит никогда. Неприемлемое поведение включает в себя:
 
-    * hurtful or offensive comments
-    * deliberate intimidation
-    * direct or indirect threats
-    * stalking
-    * following
-    * inappropriate physical contact
-    * unwelcome sexual attention.
+    * обидные или оскорбительные комментарии;
+    * преднамеренное запугивание;
+    * прямые или непрямые угрозы;
+    * травля;
+    * преследование;
+    * неуместный физический контакт;
+    * неодобряемые знаки внимания сексуального характера.
 
- * Encourage a culture of sharing. Encourage advanced users to help not-so advanced ones. Delegate.
+ * Воспитывайте культуру обмена. Поощряйте опытных пользователей помогать не столь опытным. Передавайте полномочия.
 
- * Use online meeting platforms like mumble, or even chatrooms (e.g. #cryptoparty room on http://occupytalk.org/) when physical meetups are not possible or impractical.
+ * Используйте для онлайн-встреч такие платформы, как Mumble, или даже просто чаты (например, #cryptoparty на http://occupytalk.org/[^1]) в тех случаях, когда встретиться в реале не получается или когда это нецелесообразно.
+[^1]: На момент перевода (июль 2015 года) сервер не предоставлял пользовательских сервисов.
 
- * Copy from other cryptoparties. Remix, Reuse and Share. Create a basket of old devices people are willing to donate to more needy CryptoPartiers. 
+ * Копируйте материалы с других криптовечеринок. Переделывайте, используйте готовое и делитесь. Поставьте ящик для старых девайсов, которые люди хотели бы подарить другим участникам, которым эти вещи нужны больше.
 
- * Get the word out! Print posters and/or flyers and distribute them in your neighbourhood, post online versions to social networks and mail them to friends, for them to distribute the info even further.
+ * Расскажите об этом! Напечатайте постеры и/или флаеры и распространите их в вашем районе, опубликуйте онлайн-версии в соцсетях и отправьте их по почте друзьям, чтобы они продвигали информацию дальше.
 
- * Don't sell out to sponsors for pizza and beer money. Ask people to try and bring food and drink to share. Host CryptoPicnics as often as possible. Make friends with librarians. They wield power over keys to local, public meeting rooms that may be free of charge to utilize.
+ * Не продавайтесь спонсорам за пиво и пиццу. Попросите народ принести с собой чего-нибудь перекусить и выпить и по мере возможностей поделиться с остальными. Организуйте криптопикники как можно чаще. Подружитесь с библиотекарями. Они обладают властью открывать двери местных общественных залов для собраний, которые могут оказаться бесплатными для использования.
 
- * Invite all the people. Bring people together who have a wide range of skills and interests - musicians, political pundits, activists, hackers, programmers, journalists, artists and philosophers. Spread the love.
+ * Приглашайте вообще всех. Соберите вместе людей, имеющих широкий круг умений и интересов: музыкантов, знатоков политики, активистов, хакеров, программистов, журналистов, артистов и философов. Делитесь любовью.<!--- Spread the love → ? --->
 
- * Invite the graphic designers and illustrators you know to contribute new ways to help people understand crypto.
+ * Попросите знакомых дизайнеров и иллюстраторов поучаствовать в разработке новых способов помочь людям лучше понять криптографию.
 
- * Invite everyone to share their knowledge and their skills. Individuals with little or no coding, programming, hacking or crypto skills can change cultures by promoting the idea that privacy is a fundamental right.
+ * Поощряйте всех и каждого делиться своими знаниями и умениями. Отдельные люди, которые совсем ничего не понимают или понимают совсем чуть-чуть в кодировании, программировании, хакинге или криптографии могут сменить культурный миф<!--- Или как перевести «can change cultures»? --->, продвигая идею о защите тайны частной жизни как фундаментальном праве.
 
- * Share music, beers, & chips. Bond together over eclectic music, cheeseballs, installing GPG, TrueCrypt, OTR and Tor, as well as watching movies together. We recommend Hackers, The Matrix, Bladerunner, Tron, Wargames, Sneakers, and The Net.
+ * Разделите друг с другом музыку, пиво и чипсы. Смешайте вместе разные стили музыки, сырные шарики, установку GPG, TrueCrypt, OTR и Tor, сочетая всё это с просмотром какого-нибудь фильма. Мы рекомендуем «Матрицу» («The Matrix»), «Бегущего по лезвию» («Bladerunner»), «Трон» («Tron»), «Военные игры» («Wargames»), «Тихушники» («Sneakers») и «Сеть» («The Net»).
 
- * Do not work too hard. Take breaks. Eat popcorn together. Create slang, phrases, memes.
+ * Не перерабатывайте. Делайте перерывы. Ешьте попкорн все вместе. Создавайте свой сленг, фразы, мемы.
 
- * When people at CryptoParties ask for advice on "hacking the Gibson" refer them to episodes of 'My Little Pony'.
+ * Когда кто-нибудь на криптовечеринках прост посоветовать, как «хакнуть Гибсон», отошлите его к эпизодам «My Little Pony».
 
- * Create fliers and advertise using slogans like: "CryptoParties: If there is hope, it lies in the proles" and "CryptoParty like it's 1984." CryptoParty all the things to avoid oppression and depression.
+ * Сделайте флаеры и рекламу со слоганами типа «Криптовечеринки: если надежда и есть, то только на пролов» и «Будем крипто-отрываться, как будто 1984 уже настал». Крипто-замутите что угодно, чтобы избежать репрессий и депрессий.
 
- * Seed CryptoParties in your local communities - at nursing homes, scout groups, music festivals, universities, schools. Take CryptoParty to isolated and remote communities. Make friends in far away places and travel whenever possible. Ask people in rural farming communities if they'd like to CryptoParty.
+ * Проводите криптовечеринки в местных сообществах: в домах престарелых, в скаутских группах, на музыкальных фестивалях, в университетах, в школах. Привезите криптовечеринки в изолированные и удалённые населённые пункты. Подружитесь с кем-нибудь, кто живёт достаточно далеко, и ездите туда по мере возможностей. Выясните у людей, живущих в деревнях, хотят ли они крипто-потусить.
 
- * Share shimmering opportunities of crowd-sourced privacy: swap cheap, pre-paid SIMs, handsets and travel cards.
+ * Используйте блестящую возможность для защиты тайны вашей частной жизни с помощью сообщества<!--- crowd-sourced privacy --->: обменивайтесь дешёвыми предоплаченными симками, телефонами и многоразовыми проездными.
 
- * Create logos in bright pink and purple, with hearts all over them. Promote CryptoParties to rebellious 13 year old girls. Declare success if rebellious 13 year old girls demand to attend your parties.
+ * Разработайте логотипы в ярко-розовых и сиреневых тонах с сердечками вокруг них. Рекламируйте криптовечеринки в среде бунтующих 13-летних девчонок. Считайте, что миссия выполнена, если бунтующие 13-летне девчонки проявили хоть какой-то интерес к посещению ваших вечеринок.
 
- * Become friends with journalists. Invite them to your parties. Teach them crypto. Do not scare them by discussing Assassination Markets.
+ * Подружитесь с журналистами. Приглашайте их на свои мероприятия. Обучите их пользоваться инструментами для шифрования. И не надо их запугивать обсуждениями «Рынка заказных убийств».
 
- * Strew CryptoParty sigils across your city in 3am post-party raids. Make lots of stickers, paste them everywhere.
+ * Наводните город символами вашей криптовечеринки в 3 часа утра во время послетусовочного рейда. Сделайте кучу стикеров и расклейте их, где только можно.
 
- * Experiment, constantly. Do not be afraid to make mistakes. Encourage people to tinker. Assume all mistakes are meant to be made. Most people under intel agency scrutiny have electronic devices already compromised before they walk in the door. Teach people to install tools from scratch, so they can do it on a new machine, away from prying eyes.
+ * Постоянно экспериментируйте. Не бойтесь делать ошибки. Поощряйте людей действовать осознанно. Придумайте все ошибки, которые могут быть допущены. У большинства тех, за кем присматривают спецслужбы, все электронные устройства уже наверняка были скомпрометированы ещё до того, как они подумали забежать к вам. Научите людей ставить софт с нуля, чтобы они могли это сделать на чистой машине где-нибудь, где за ними никто не следит.
 
- * Assume intel agencies send representatives to CryptoParties. Acknowledge their presence at the start of your meeting, ask them to share their crypto skills. Joke about paranoia as often as possible without instilling panic. Wear tinfoil hats.
+ * Предположите, что спецслужбы засылают своих агентов на криптовечеринки. Признайте факт их присутствия в самом начале вашей встречи, попросите их поделиться своими знаниями в области средств шифрования. Как можно чаще шутите по поводу паранойии, однако, без фанатизма, чтобы это не перешло в панику. Наденьте шапочки из фольги.
 
- * Be excellent to each other and CryptoParty on.
+ * Будьте безупречны по отношению друг к другу, и криптовечеринка обязательно удастся.
