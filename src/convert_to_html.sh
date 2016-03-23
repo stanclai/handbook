@@ -35,6 +35,8 @@ for d in chapter*; do
         pandoc -s -S --toc -f markdown -t html --css=../handbook.css --title="CryptoParty handbook - $TITLE" -B $DIR/$d/$d.before -A $DIR/$d/$d.after $DIR/$d/$d.mdidx -o $DIR/$d/$d.html
         python extract_toc.py $DIR/$d/$d.html | sed "s/\"#/\"$d\/$d.html#/" >> $IDX
         rm -f $DIR/$d/$d.mdidx
+        rm -f $DIR/$d/$d.before
+        rm -f $DIR/$d/$d.after
         cp -au $d/*.png $d/*.jpg $DIR/$d 2>/dev/null
 done
 cp -au handbook.css $DIR/ 

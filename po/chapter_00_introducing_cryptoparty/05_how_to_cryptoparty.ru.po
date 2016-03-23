@@ -1,0 +1,1061 @@
+# Russian translations for Cryptoparty Handbook package
+# Copyright (C) 2016 Shroom [OmskLUG]
+# This file is distributed under the same license as the Cryptoparty Handbook package.
+# Automatically generated, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Cryptoparty Handbook Russian\n"
+"Report-Msgid-Bugs-To: stanclai@users.noreply.github.com\n"
+"POT-Creation-Date: 2016-03-23 19:00+0300\n"
+"PO-Revision-Date: 2016-03-23 19:00+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Title #
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:1
+#, no-wrap
+msgid "How To Organize A CryptoParty"
+msgstr ""
+
+#. type: Title ##
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:3
+#, no-wrap
+msgid "Introduction"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:6
+msgid ""
+"CryptoParty is a global and decentralized grass-roots movement. As such, "
+"they vary as much as they are adapted to their specific environments. This "
+"How To is written to give you some ideas on what might work and what not so "
+"much, but as with all direct action: plans are nothing, planning is "
+"everything, and it is all good as long as you follow CryptoParty's [guiding "
+"principles](https://cryptoparty.in/guiding_principles): be excellent to each "
+"other and do things."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:8
+msgid ""
+"If you prefer video over text: [How To CryptoParty](https://va.ludost.net/"
+"files/initlab/20140502cparty.mp4) (recorded at [initlab](https://initlab."
+"org) in April 2014)."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:10
+msgid ""
+"Or join us on [IRC](https://cryptoparty.in/connect/contact/irc) "
+"(#cryptoparty@irc.oftc.net) or the [mailing list](https://cryptoparty.in/"
+"connect/contact/mailinglists) <global@cryptoparty.is>."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:12
+msgid ""
+"Please contact us through one of the above channels if you have any "
+"questions or need other help."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:14
+msgid ""
+"A CryptoParty cannot teach you everything there is to know about computer "
+"and internet security in one evening. Main objective is to tear down the "
+"mental walls which prohibit people to even think about these topics or pick "
+"them up as they occur throughout their lives, like in newspaper articles, "
+"blog posts, educational pictures and memes. There is plenty of information "
+"about computer and internet security out there. Sadly, many people don't "
+"consider themselves able to process it and don't even start. That's what we "
+"want to change. Take away the fear of cryptic and technical things (two "
+"properties inherent to cryptographic tools) so they can continue educating "
+"themselves and others."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:16
+msgid ""
+"With a CryptoParty you create an environment where people from different "
+"backgrounds come together and learn from each other. Hence you might want to "
+"include people of different age, gender, heritage and expertise."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:19
+#, no-wrap
+msgid ""
+" Doors open, people arrive, find a seat and socialize.  A short intro officially opens the event and then it's off to the tables. Each table covers a topic and people decide what they'd like to learn or teach.\n"
+"People will be more comfortable given enough time for socializing. They will be more likely to ask questions then. But it also takes an environment where they feel comfortable socializing. Setting the scene is your task.\n"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:22
+msgid ""
+"The intro speech should be as short as possible (less than 20 minutes) and "
+"give people an overview of what to expect (see dedicated chapter for more "
+"details).  Some cities have talks, too. This works very well when people "
+"look for in-depth introductions. Most of the time though they want to get to "
+"the hands-on part rather sooner than later. Depending on the group you could "
+"offer both in separate rooms."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:24
+msgid ""
+"Right after the intro people move to the table and topic of their choice. "
+"Don't worry if it gets a bit chaotic for a few minutes. Each table opens "
+"with a more specific introduction before installing, configuring and using "
+"the different tools. Again, encourage everyone to ask questions any time."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:26
+msgid ""
+"The ability to improvise is very useful at a CryptoParty as learning usually "
+"encounters being confronted with things you did not anticipate ;-)"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:28
+msgid ""
+"If everything worked you'll be amazed by the positive energy, by people "
+"being highly engaged, concentrated and enjoying every aspect of it. Great "
+"CryptoParties usually last until late in the evening despite a long day (or "
+"week) at work."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:30
+msgid "The recommended length for a CryptoParty is three to five hours."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:32
+msgid ""
+"Here's a complete list of everything we learned from some past CryptoParties:"
+msgstr ""
+
+#. type: Title ##
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:34
+#, no-wrap
+msgid "Before the party"
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:36
+#, no-wrap
+msgid "Location, infrastructure and food"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:39
+msgid ""
+"The audience of a CryptoParty and its general conduct is formed in large "
+"parts by the location it is happening at. No matter if bars, social centers, "
+"schools, universities, libraries, newsrooms, NGOs or even company premises: "
+"As long as it is free and open to everyone, politically and commercially non-"
+"aligned it's good to go. The latter can be tricky if it's company offices. "
+"If in doubt ask other CryptoParty organizers via local or global mailing "
+"lists if they'd feel comfortable with events happening at the place in "
+"question."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:41
+msgid ""
+"A good thing to have – maybe even more than Internet and electricity – is "
+"food. It's just really hard to be cranky and not excellent to each other if "
+"you just had a really nice meal. But, yes, usually you also want enough "
+"electricity and Internet to be able to supply everyone with the software and "
+"experience they came for."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:43
+msgid "The main criteria for a good location are"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:50
+msgid "cozy"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:50
+msgid "has drinks"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:50
+msgid "ideally has food, too"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:50
+msgid "has chairs & tables"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:50
+msgid "has extension cords & power plugs"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:50
+msgid "has fast enough Internet connection"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:52
+msgid ""
+"Keep in mind that your main audience is not familiar with the hacker scene."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:54
+msgid "Suitable locations can be"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:63
+msgid "cafes"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:63
+msgid "community spaces"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:63
+msgid "libraries"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:63
+msgid "schools"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:63
+msgid "universities"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:63
+msgid "hackerspaces"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:63
+msgid "night clubs"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:63
+msgid "any place you like"
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:65
+#, no-wrap
+msgid "Home Page"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:68
+msgid ""
+"Whether you host the page for your CryptoParty on your own server or use "
+"[cryptoparty.in](https://cryptoparty.in) is up to you, but CryptoParty is a "
+"global, collaborative effort, so please at least put a link on cryptoparty."
+"in so that others are aware of your existence and can join you."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:70
+msgid "Some elements you might want to have on it are"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:75
+msgid "welcome text"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:75
+msgid "next party dates"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:75
+msgid "locations list"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:75
+msgid "contact info (preferably email)"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:77
+msgid ""
+"Let's assume your city does not have a page. Create one for the whole city "
+"(e.g. \"https://cryptoparty.in/gotham\"). That's where the information above "
+"goes. Locations or parties should have separate sub pages. This allows "
+"others to organize parties without having to create a second version of the "
+"city page."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:79
+msgid ""
+"You can help creating a good default page by copying from others, adjusting "
+"to your needs, and giving feedback on what could be improved on other pages "
+"as well."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:81
+msgid ""
+"Please add your CryptoParty dates to the [global dates list](https://"
+"cryptoparty.in/parties/upcoming) even if you don't use the wiki as your main "
+"website. Help us show how global the movement ist. You can find a dedicated "
+"How-To for [adding your own CryptoParty](https://cryptoparty.in/parties/add-"
+"a-date) there."
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:83
+#, no-wrap
+msgid "Outreach"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:88
+msgid ""
+"Outreach helps you to make it known that a CryptoParty is happening. First "
+"you need to think of your \"target audience\". That would be people not "
+"encrypting anything yet. They know how to turn on a computer but don't have "
+"advanced knowledge on the topic.  Start small. Depending on the number of "
+"angels available you probably don't want a hundred people showing up at your "
+"first CryptoParty.  Locations tend to come with a community. If they are "
+"interested in hosting a CryptoParty then their community is likely "
+"interested in attending one. If you manage to make them happy they will tell "
+"their friends how amazing it was."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:90
+msgid ""
+"Announce the CryptoParty on the wiki, the mailing lists, and all other "
+"relevant channels at hand. Here are some channels you could use:"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:101
+#, no-wrap
+msgid ""
+"* online\n"
+"  * mailing lists\n"
+"  * blog posts\n"
+"  * social media\n"
+"* offline (see [github.com/cryptoparty/flyers](https://github.com/cryptoparty/flyers) for templates to remix)\n"
+"  * flyers\n"
+"  * stickers\n"
+"  * posters\n"
+"  * word of mouth\n"
+"  * local media\n"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:104
+msgid ""
+"Maybe the location would like to put up poster and flyers in a good spot? "
+"Maybe they have a mailing list as well? Consider creating a mailing list and "
+"social media accounts for your city. Mailing lists, Diaspora, and Twitter "
+"seem to be very popular in the CryptoParty community."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:106
+msgid ""
+"Connecting to the worldwide CryptoParty community can be useful to learn "
+"from past experience and bring in new impulses."
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:110
+msgid "[mailing lists](https://cryptoparty.in/communication/mailinglists)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:110
+msgid "[irc](https://cryptoparty.in/communication/irc)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:110
+msgid "[Twitter](https://twitter.com/search?q=%23cryptoparty&mode=users)"
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:112
+#, no-wrap
+msgid "Angels"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:115
+msgid ""
+"Decide what topic you'd like to teach. To see how others explain it check "
+"the [list of handbooks](https://www.cryptoparty.in/learn/links#handbooks). "
+"Explanations will be aimed at beginners. Always keep that in mind. <https://"
+"www.level-up.cc/> has a section specifically on [how to be a better trainer]"
+"(https://www.level-up.cc/resources-for-trainers)."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:117
+msgid ""
+"Don't be judgemental. Respect people's choices of which tool to use and how "
+"far they are ready to go protecting their privacy. Don't answer questions as "
+"if they are stupid. Every question is a good one."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:120
+msgid ""
+"Contact the organizer and let them know what you'd like to teach. It helps "
+"them in planning the CryptoParty. The more angels there are the smaller the "
+"groups can be, making it a much better experience for the guests.  Should "
+"you find some spare time at the party use it and learn from the other angels."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:122
+msgid ""
+"Bring pen and paper to the CryptoParty to draw diagrams while explaining how "
+"something works."
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:124
+#, no-wrap
+msgid "Materials"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:127
+msgid "List of things that might come in handy during a CryptoParty."
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:134
+msgid "[table cards](https://github.com/cryptoparty/handouts/tree/master/en)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:134
+msgid "flyers (CryptoParty or related groups)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:134
+msgid "stickers"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:134
+msgid "some USB sticks"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:134
+msgid "having all relevant software downloaded (and verified if possible)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:134
+msgid "fingerprints of signing keys for Tor, Tails, PGP and other projects"
+msgstr ""
+
+#. type: Title ##
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:135
+#, no-wrap
+msgid "The Party"
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:137
+#, no-wrap
+msgid "Setting the scene"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:140
+msgid ""
+"This might be the most important part. A strength of CryptoParties is that "
+"they bring together people of most diverse backgrounds and engage them into "
+"learning together and from each other. But this also brings its challenges "
+"as people might have different ideas of what entails “being excellent to "
+"each other”."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:143
+msgid ""
+"A first step, even before the party officially starts, is to welcome each "
+"person or group individually as they arrive and making sure that they don't "
+"feel lonely or lost. This is especially important when the start is delayed, "
+"which happens more often than it probably should, but this applies to the "
+"whole party. Just make sure everyone is excellent to each other and does "
+"things (e.g. having a tea and friendly chat).  Tearing down walls."
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:144
+#, no-wrap
+msgid "Intro Speech"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:147
+msgid ""
+"In our experience it is helpful to lay out the general “plan” and potential "
+"topics in the beginning."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:149
+msgid ""
+"The intro speech officially opens the CryptoParty. Depending on your style "
+"it can be a rather down-to-earth or more fiery thing. But keep it short "
+"(less than 20 minutes) and don't go into the technical details as this is "
+"what the individual learning groups are for."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:151
+msgid ""
+"If you want you can show a video (for example the [CryptoParty intro video]"
+"(https://github.com/cryptoparty/video))."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:153
+msgid "Potential talking points can be"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:177
+msgid "hello and welcome"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:177
+msgid "thanking the people from the location"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:177
+#, fuzzy
+#| msgid "Be excellent to each other"
+msgid "be excellent to each other"
+msgstr "Будьте безупречны по отношению друг к другу"
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:177
+#, no-wrap
+msgid ""
+"* what is CryptoParty\n"
+"  * global and decentral movement\n"
+"  * everyone can be a part of it\n"
+"  * one topic per table\n"
+"  * people choose topic\n"
+"* security disclaimer\n"
+"  * 100% security not possible (neither offline nor online)\n"
+"  * using crypto is legal, but not in every country\n"
+"  * CryptoParty is for beginners\n"
+"  * forward journalists, activists to real experts (e.g. [EFF](https://www.eff.org/), [Tactical Tech](https://tacticaltech.org/), [AccessNow](https://www.accessnow.org/))\n"
+"* prejudice that crypto is hard exists\n"
+"* security is a process\n"
+"  * not a product\n"
+"  * not something you install\n"
+"  * something you do\n"
+"* free software\n"
+"  * free as in freedom\n"
+"* decentralized services\n"
+"  * not controlled by a single company\n"
+"* list of topics presented at this specific CryptoParty\n"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:179
+msgid ""
+"Don't offer a false sense of security, but also don't scare people with all "
+"the ways that things could go wrong. Some people _want_ to hear all the "
+"things that could go wrong and are not scared, but you need to figure that "
+"out on a person-by-person basis, it's not for the introductory speech."
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:180
+#, no-wrap
+msgid "Topics"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:183
+msgid ""
+"This list is only a suggestion. Learning groups form around these topics and "
+"depending on how large the space is, how many people attend to learn and how "
+"many are willing to conduct a learning group they can be grouped more "
+"broadly or specific."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:185
+msgid ""
+"What you offer depends on the angels available. Further suggestions are "
+"listed in a separate [tools overview](https://cryptoparty.in/learn/tools). "
+"All of them are free and open source software. And of course we like "
+"decentralized services."
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:197
+msgid "discussion and orientation table"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:197
+msgid ""
+"encrypt emails with [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:197
+msgid ""
+"encrypt your IMs with [XMPP](https://en.wikipedia.org/wiki/XMPP) and [OTR]"
+"(https://en.wikipedia.org/wiki/Off-the-Record_Messaging)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:197
+msgid "anonymous surfing [Tor](https://torproject.org)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:197
+msgid "privacy enhancing browser plug-ins"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:197
+msgid ""
+"mobile security ([Android](https://cryptoparty.in/learn/tools#android), [iOS]"
+"(https://cryptoparty.in/learn/tools#ios)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:197
+msgid ""
+"file and hard-drive encryption with [VeraCrypt](https://veracrypt.codeplex."
+"com/)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:197
+msgid ""
+"hard-drive encryption with [LUKS](https://en.wikipedia.org/wiki/"
+"Linux_Unified_Key_Setup)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:197
+msgid "password security and managers"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:197
+msgid "Linux installation"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:197
+msgid ""
+"[Tails](https://tails.boum.org/) (safe and anonymous operating system... "
+"don't forget to tell people to bring a thumb drive)"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:199
+msgid ""
+"A discussion and orientation table would cover how much surveillance is "
+"possible and why all of us have something to hide. Most people are not "
+"exhibitionists and do value their privacy. Hence it focuses on anyone "
+"curious but not yet convinced why they would encrypt or not sure where to "
+"start."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:201
+msgid ""
+"At the discussion and orientation table, you might have to deal with a lot "
+"of question you didn't expect. Some of them might even seem irrelevant to "
+"you. Don't try to direct the conversation, answer every question without "
+"judging instead."
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:202
+#, no-wrap
+msgid "Asking for help"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:205
+msgid ""
+"Always ask for help. CryptoParties are not meant to be hard on the "
+"individual. If the stress outweights the fun, step back a bit and see how it "
+"still magically continues by itself. The main thing for this to happen is "
+"toinvite people to help, tell them that they can help and that their help is "
+"appreciated. Be it for one CryptoParty or the long run. If you see people "
+"show up for the third time in a row, ask them if they want to host a table, "
+"if people talk about the bar they work or the house project they live in, "
+"ask them if these places would be suitable for a CryptoParty and if they "
+"might organize one. The opportunities are plenty."
+msgstr ""
+
+#. type: Title ##
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:207
+#, no-wrap
+msgid "Variations of the Format"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:210
+msgid ""
+"CryptoParties for specific groups can help lower the barrier of \"This is "
+"not my field of expertise, I won't understand a thing!\". Consider "
+"organizing CryptoParties for journalists, students, specific activist "
+"groups, etc. Still, even considering the dedicated setup, everyone who "
+"happens to come by, should be welcome."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:212
+msgid ""
+"If you want to reach people who are too shy to attend or if finding a good "
+"location is too hard, you might want to offer visiting people at their place "
+"for a so-called \"house/living room CryptoParty\"."
+msgstr ""
+
+#. type: Title ##
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:214
+#, no-wrap
+msgid "Roles"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:217
+msgid ""
+"As with any event there are different roles at a CryptoParty. This chapter "
+"will give an overview of all the roles."
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:222
+msgid "organizers"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:222
+msgid "intro speakers"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:222
+msgid "crypto angels"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:222
+msgid "meta angels"
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:224
+#, no-wrap
+msgid "Organizer"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:227
+msgid ""
+"As a CryptoParty organizer, you need to find a nice location where people "
+"feel comfortable. You keep in touch with the people running the space and "
+"find a date suitable for everyone. Locations can be community spaces, cafes, "
+"libraries, schools, universities, hackerspaces… any place cozy and inviting "
+"with enough chairs, tables, power plugs and fast enough Internet works."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:229
+msgid ""
+"You could take care of outreach as well to spread the word of when and where "
+"the CryptoParty happens. Outreach has a dedicated chapter (see below)."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:231
+msgid ""
+"Last but not least you need enough people to explain specific tools and run "
+"the CryptoParty with you. If you are experienced you can run with as little "
+"as no one and organize the helpers (some call them Crypto Angels) on the "
+"spot. But it's way less stressful if you just ask everyone you know who is "
+"knowledgable and/or helpful to come."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:233
+msgid ""
+"Keep groups as small as possible. Experience has shown that the best teacher-"
+"learner ratio is 1:5 or lower."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:235
+msgid ""
+"A CryptoParty is successful if the atmosphere is right. It does not matter "
+"how many people showed up. Be patient when starting to establish CryptoParty "
+"in your city or community. Spreading the word takes time."
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:237
+#, no-wrap
+msgid "Intro Speaker"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:240
+msgid ""
+"As intro speaker your task is to open the CryptoParty before people move to "
+"the table of their choice. It can be be a rather down to earth \"this is "
+"what CryptoParty is about and these are the topics\" affair or a fiery \"for "
+"your privacy, for our freedom, encrypt now and make the surveillance "
+"bastards cry\" rally speech. Every speaker has their own style."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:242
+msgid "For notes on talking points see the //Intro Speech// section below."
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:244
+#, no-wrap
+msgid "Crypto Angels"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:247
+msgid ""
+"As Crypto Angel your task is to explain crypto on a conceptual level, what "
+"it protects from (or doesn't) and help with installing and using the related "
+"software."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:249
+msgid ""
+"Always explain to the person in your group with the least pre-knowledge, "
+"keep an eye out for startled faces and ask if everyone followed after you "
+"finish a thought. Encourage interaction and questions whenever they arise. "
+"When someone else knows the answer let them answer first."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:252
+msgid ""
+"Learning should be hands-on first. Never touch a participants computer "
+"unless not doing so would really hinder the experience and always ask "
+"permission to do so first. Most people are visual learners so drawing little "
+"pictures or diagrams can help them a lot grasping the abstract concepts "
+"behind the software.  If you don't know the answer to a question, either "
+"forward it to the larger crowd/other Crypto Angels, or try to find it with "
+"the group."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:254
+msgid ""
+"The idea is that people know how to use the tool they learned about on a "
+"basic level when they leave the CryptoParty. And even better, that they can "
+"then tell their friends they now use \"tool xyz\" and thus get them to "
+"understand that it can't be as hard as they previously thought (and then "
+"explain it to them, too)."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:256
+msgid "If you need more Crypto Angles, find them:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:261
+#, fuzzy
+#| msgid "What is CryptoParty?"
+msgid "at a CryptoParty"
+msgstr "Что такое криптовечеринка?"
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:261
+msgid "among your friends"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:261
+msgid "at a hackerspace"
+msgstr ""
+
+#. type: Bullet: '* '
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:261
+msgid "in university"
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:263
+#, no-wrap
+msgid "Meta Angel"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:266
+msgid ""
+"The bigger or more chaotic a CryptoParty is in general, the better it is to "
+"have a Meta Angel, a person who's only task is to make sure that everyone "
+"has the best learning experience and no one is left alone."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:268
+msgid ""
+"As meta angel you don't have a topic or table. Instead you have an overview "
+"of the angels available, what their strengths are, and what table covers "
+"which topic."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:270
+msgid "You help late comers finding a table."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:272
+msgid ""
+"You facilitate communication between tables. Assume there's a question at a "
+"table and the local angel has no answer to it. You help them find someone "
+"else who might."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:274
+msgid "If someone seems to have dropped out help them find the right table."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:276
+msgid ""
+"If someone is undecided about what they want to learn, you can have a chat "
+"with them to help them to understand what they'd like to learn and to choose "
+"their table."
+msgstr ""
+
+#. type: Title ##
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:278
+#, no-wrap
+msgid "Community Building"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:281
+msgid ""
+"Things you can do to help grow the local and global CryptoParty community."
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:282
+#, no-wrap
+msgid "Regular Meeting Night"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:285
+msgid ""
+"In order to build a sustainable movement, you want people to form social "
+"bonds. A regular meeting night for crypto angels, organizers, etc might "
+"serve that purpose. Have fun and share."
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:286
+#, no-wrap
+msgid "Training Sessions"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:289
+msgid ""
+"Angels need a chance to learn some things themselves. At a CryptoParty "
+"there's usually not exactly time for this. Hence organizing a \"train the "
+"trainer\" session can be a good idea."
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:290
+#, no-wrap
+msgid "Conferences"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:293
+msgid ""
+"There's been a CryptoParty assembly at the CCC congress since the movement "
+"started. It helped us a lot to connect worldwide and exchange experiences."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:295
+msgid ""
+"Applying the concept to more conferences can help spread the word. And of "
+"course it's lots of fun to meet other like minded people. Or maybe someone "
+"already had the same idea and you join forces?"
+msgstr ""
+
+#. type: Title ##
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:296
+#, no-wrap
+msgid "Resources"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/05_how_to_cryptoparty.md:304
+msgid ""
+"| Language | Link | Description | |----------|------|-------------| | "
+"english | <https://www.level-up.cc/> | resources for the global digital "
+"safety training community | | english | <https://www.cryptoparty.in/learn/"
+"links#handbooks> | links to various handbooks | | german | <https://wiki."
+"piratenpartei.de/HowTo_Cryptoparty> | How To CryptoParty by german Pirate "
+"Party | | german | <https://www.ak-vorrat.org/wiki/cryptoparty-erfahrungen> "
+"| How To CryptoPaty by german activist group AK Vorrat |"
+msgstr ""

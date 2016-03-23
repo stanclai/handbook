@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Shroom [OmskLUG]
+# This file is distributed under the same license as the Cryptoparty Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cryptoparty Handbook Russian\n"
+"Report-Msgid-Bugs-To: stanclai@users.noreply.github.com\n"
+"POT-Creation-Date: 2016-03-23 19:00+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: src/chapter_00_introducing_cryptoparty/01_preface.md:2
+#, no-wrap
+msgid "Preface\n"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/01_preface.md:5
+msgid ""
+"This book is a collective and ongoing effort in that it is based on the two "
+"[FLOSS Manuals](https://www.flossmanuals.net) [How to Bypass Internet "
+"Censorship](https://flossmanuals.net/bypassing-censorship) and [Basic "
+"Internet Security](https://flossmanuals.net/basic-internet-security/) and "
+"collaboratively edited on [Github](https://github.com/cryptoparty/handbook) "
+"although other venues of collaborative editing are investigated."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/01_preface.md:7
+msgid ""
+"Its goal is to give a comprehensive resource to people who would like to "
+"attend or organize a CryptoParty but lack the local expertise or just "
+"confidence in doing so. All chapters are designed to be self-contained."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/01_preface.md:8
+msgid ""
+"All content in the *CryptoParty Handbook* is licensed under the [Creative "
+"Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://"
+"creativecommons.org/licenses/by-sa/3.0/). The authors are listed in "
+"*Appendix A: Contributions*."
+msgstr ""

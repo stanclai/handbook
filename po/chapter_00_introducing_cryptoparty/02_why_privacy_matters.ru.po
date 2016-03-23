@@ -1,0 +1,130 @@
+# Russian translations for Cryptoparty Handbook package
+# Copyright (C) 2016 Shroom [OmskLUG]
+# This file is distributed under the same license as the Cryptoparty Handbook package.
+# Automatically generated, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Cryptoparty Handbook Russian\n"
+"Report-Msgid-Bugs-To: stanclai@users.noreply.github.com\n"
+"POT-Creation-Date: 2016-03-23 19:00+0300\n"
+"PO-Revision-Date: 2016-03-23 19:00+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Title =
+#: src/chapter_00_introducing_cryptoparty/02_why_privacy_matters.md:2
+#, no-wrap
+msgid "Why Privacy Matters\n"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/02_why_privacy_matters.md:5
+msgid ""
+"Privacy is a fundamental human right. It is recognized in many countries to "
+"be as central to individual human dignity and social values as Freedom of "
+"Association and Freedom of Speech. Simply put, privacy is the border where "
+"we draw a line between how far a society can intrude into our personal lives."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/02_why_privacy_matters.md:7
+msgid ""
+"Countries differ in how they define privacy. In the UK for example, privacy "
+"laws can be traced back to the 1300s when the English monarchy created laws "
+"protecting people from eavesdroppers and peeping toms. These regulations "
+"referred to the intrusion of a person’s comfort and not even the King of "
+"England could enter into a poor persons house without their permission. From "
+"this perspective, privacy is defined in terms of personal space and private "
+"property. In 1880 American lawyers, Samuel Warren and Louis Brandeis "
+"described privacy as the 'right to be left alone'. In this case, privacy is "
+"synonymous with notions of solitude and the right for a private life. In "
+"1948, the Universal Declaration of Human Rights specifically protected "
+"territorial and communications privacy which by that became part of "
+"constitutions worldwide. The European Commission on Human Rights and the "
+"European Court of Human Rights also noted in 1978 that privacy encompasses "
+"the right to establish relationships with others and develop emotional well-"
+"being."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/02_why_privacy_matters.md:9
+msgid ""
+"Today, a further facet of privacy increasingly perceived is the personal "
+"data we provide to organizations, online as well as offline. How our "
+"personal data is used and accessed drives the debate about the laws that "
+"govern our behavior and society. This in turn has knock-on effects on the "
+"public services we access and how businesses interact with us.  It even has "
+"effects on how we define ourselves. If privacy is about the borders which "
+"govern who we give permission to watch us and track aspects of our lives, "
+"then the amount and type of personal information gathered, disseminated and "
+"processed is paramount to our basic civil liberties."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/02_why_privacy_matters.md:11
+msgid ""
+"An often heard argument, when questions of privacy and anonymity come up, "
+"goes along the lines of, \"I only do boring stuff. Nobody will be interested "
+"in it anyway\" or, \"I have nothing to hide\". Both of these statements are "
+"easily defeated."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/02_why_privacy_matters.md:13
+msgid ""
+"Firstly, a lot of companies are very interested in what boring things you do "
+"precisely so they have opportunity to offer \"excellent\" products fitting "
+"interests. In this way their advertising becomes much more efficient - they "
+"are able to tailor specifically to assumed needs and desires. Secondly you "
+"do have lots to hide. Maybe you do not express it in explicitly stated "
+"messages to friends and colleagues, but your browsing - if not protected by "
+"the techniques laid out in this book - will tell a lot about things you "
+"might rather keep secret: the ex-partner you search for using Google, "
+"illnesses you research or movies you watch are just few examples."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/02_why_privacy_matters.md:15
+msgid ""
+"Another consideration is that just because you might not have something to "
+"hide at this moment, you may very well in future. Putting together all the "
+"tools and skills to protect yourself from surveillance takes practice, trust "
+"and a bit of effort. These are things you might not be able to achieve and "
+"configure right when you need them most and need not take the form of a spy "
+"movie. An obsessed, persistent stalker, for example, is enough to heavily "
+"disrupt your life. The more you follow the suggestions given in this book, "
+"the less impact attacks like this will have on you. Companies may also stalk "
+"you too, finding more and more ways to reach into your daily life as the "
+"reach of computer networking itself deepens."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/02_why_privacy_matters.md:17
+msgid ""
+"Finally, a lack of anonymity and privacy does not just affect you, but all "
+"the people around you. If a third party, like your Internet Service "
+"Provider, reads your email, it is also violating the privacy of all the "
+"people in your address book. This problem starts to look even more dramatic "
+"when you look at the issues of social networking websites like Facebook.  It "
+"is increasingly common to see photos uploaded and tagged without the "
+"knowledge or permission of the people affected."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/02_why_privacy_matters.md:18
+msgid ""
+"While we encourage you to be active politically to maintain your right to "
+"privacy, we wrote this book in order to empower people who feel that "
+"maintaining privacy on the Internet is also a personal responsibility. We "
+"hope these chapters will help you reach a point where you can feel that you "
+"have some control over how much other people know about you. Each of us has "
+"the right to a private life, a right to explore, browse and communicate with "
+"others as one wishes, without living in fear of prying eyes."
+msgstr ""

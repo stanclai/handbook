@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Shroom [OmskLUG]
+# This file is distributed under the same license as the Cryptoparty Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cryptoparty Handbook Russian\n"
+"Report-Msgid-Bugs-To: stanclai@users.noreply.github.com\n"
+"POT-Creation-Date: 2016-03-23 18:54+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:2
+#, no-wrap
+msgid "Party like it's december 31st 1983\n"
+msgstr ""
+
+#. type: Title ##
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:4
+#, no-wrap
+msgid "What is CryptoParty?"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:7
+#, no-wrap
+msgid "*CryptoParty* is a decentralized, global initiative to introduce basic tools for protecting privacy, anonymity and overall security on the Internet to the general public.\n"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:9
+msgid ""
+"The idea was conceived in the wake of the [Australian Cybercrime Legislation "
+"Amendment Bill 2011](http://theconversation.edu.au/cybercrime-bill-makes-it-"
+"through-but-what-does-that-mean-for-you-8953) and the reasoning is that laws "
+"like this are without substance when everybody encrypts their communication."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:11
+msgid ""
+"CryptoParties are neither commercially nor politically aligned, and free and "
+"open to attend for everyone as long as they live the following *guiding "
+"principles*:"
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:12
+#, no-wrap
+msgid "Be excellent to each other"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:15
+msgid ""
+"CryptoParties are environments where people feel welcome and safe to learn "
+"and teach no matter their background or level of expertise. All questions "
+"are relevant, all explanation shall be targeted at the person with least pre-"
+"knowledge."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:17
+msgid ""
+"This also means that any form of harassment or other behaviour that makes "
+"people uncomfortable has no place at CryptoParties. In our experience "
+"situations like these (as seldom as they occur) stem rather from social "
+"ineptitude than malice and can thus be resolved by making people aware of "
+"their behaviour and its effect on others, but in last consequence it is on "
+"the organizers of the CryptoParty to ask people to leave if they don't "
+"adhere to this very simple rule. Be excellent to each other. Awareness is "
+"key in this regard."
+msgstr ""
+
+#. type: Title ###
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:19
+#, no-wrap
+msgid "Do things"
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:22
+msgid ""
+"CryptoParties happen because people make them happen. The most amazing and "
+"unforeseen learning experiences happen because people make them happen. If "
+"you are uncertain if what you have in mind is on topic or if other people "
+"are interested as well: Propose it anyway and see what other people have to "
+"say. If you are too shy to propose to the whole room: Ask the person "
+"standing next to you first."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:24
+msgid ""
+"On a more global scale, there is a mailing list [\\<global@cryptoparty.is\\>]"
+"(https://cryptoparty.is/mailman/listinfo/global) which is open for questions "
+"and discussion of all kind, as well as country and city-specific mailing "
+"lists and other resources which can be found on https://cryptoparty.in ."
+msgstr ""
+
+#. type: Plain text
+#: src/chapter_00_introducing_cryptoparty/04_party_like_its_december_31st_1983.md:26
+msgid ""
+"For a guide on how to organize CryptoParties please be referred to the "
+"chapter of the same name."
+msgstr ""
