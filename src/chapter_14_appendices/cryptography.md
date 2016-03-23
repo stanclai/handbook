@@ -8,6 +8,7 @@ Writing is actually one of the earliest forms of cryptography as not everyone co
 Put in another way, encryption is the translation of information written in plaintext into a non-readable form (ciphertext) using algorithmic schemes (ciphers). The goal is to use the right key to unlock the ciphertext and return it back into its original plain text form so it becomes readable again.
 
 Although most encryption methods refer to written word, during World War Two, the US military used Navajo Indians, who traveled between camps sending messages in their native tongue. The reason the army used the Navajo tribe was to protect the information they were sending from the Japanese troops, who famously could not decipher the Navajo's spoken language. This is a very simple example of using a language to send messages that you do not want people to listen into or know what you're discussing. 
+
 Why is encryption important?
 ----------------------------
 
@@ -40,13 +41,13 @@ Classical ciphers refer to historical ciphers, which are now out of popular use 
 
 In a transposition cipher, the letters themselves are kept unchanged, but the order within the message is scrambled according to some well-defined scheme. An example of a transposition cipher is Skytale, which was used in ancient Rome and Greece. A paperstrip was wrapped around a stick and the message written across it. That way the message could not be read unless wound around a stick of similar diameter again.
 
-![Cryptography](assets/crypto_1.png)
+![Cryptography](crypto_1.png)
 
 *Image: Skytale taken from Wikimedia Commons (3.10.12)*
 
 A substitution cipher is a form of classical cipher whereby letters or groups of letters are systematically replaced throughout the message for other letters (or groups of letters). Substitution ciphers are divided into monoalphabetic and polyalphabetic substitutions. The Caesar Shift cipher is common example of amonoalphabetic substitution ciphers, where the letters in the alphabet are shifted in one direction or another.
 
-![Cryptography](assets/crypto_2.png)
+![Cryptography](crypto_2.png)
 
 *Image: Caesar Shift Cipher taken from Wikimedia Commons (3.10.12)*
 
@@ -54,7 +55,7 @@ Polyalphabetic substitutions are more complex than substitution ciphers as they 
 
 In the Vigenère cipher the corresponding numbers of the letters of message and key are summed up (with numbers exceeding the alphabet being dragged around the back) making the message so unreadable that it couldn't be deciphered for centuries (nowadays, with the help of computers, this obviously isn't true anymore).
 
-![Cryptography](assets/crypto_3.png)
+![Cryptography](crypto_3.png)
 
 *Image: Vigenère cipher taken from Wikimedia Commons (3.10.12)*
 
