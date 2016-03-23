@@ -20,7 +20,7 @@ This also means that any form of harassment or other behaviour that makes people
 
 CryptoParties happen because people make them happen. The most amazing and unforeseen learning experiences happen because people make them happen. If you are uncertain if what you have in mind is on topic or if other people are interested as well: Propose it anyway and see what other people have to say. If you are too shy to propose to the whole room: Ask the person standing next to you first.
 
-On a more global scale, there is a mailing list [<global@cryptoparty.is>](https://cryptoparty.is/mailman/listinfo/global) which is open for questions and discussion of all kind, as well as country and city-specific mailing lists and other resources which can be found on https://cryptoparty.in .
+On a more global scale, there is a mailing list [\<global@cryptoparty.is\>](https://cryptoparty.is/mailman/listinfo/global) which is open for questions and discussion of all kind, as well as country and city-specific mailing lists and other resources which can be found on https://cryptoparty.in .
 
 For a guide on how to organize CryptoParties please be referred to the chapter of the same name.
 
