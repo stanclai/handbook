@@ -15,7 +15,7 @@ if not os.path.exists(sys.argv[1]):
 
 h = open(sys.argv[1], 'r').read()
 
-soup = BeautifulSoup(h)
+soup = BeautifulSoup(h, "lxml")
 for div in soup.html.body.findAll('div'):
     if (div.has_attr('id')) and (div['id'] == 'TOC'):
         print(div)
