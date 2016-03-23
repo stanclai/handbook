@@ -31,6 +31,8 @@ cat > $DIR/main.tex <<EOF
 \usepackage{pdfpages}
 \usepackage{tocloft}
 \usepackage{upquote}
+\usepackage{longtable}
+\usepackage{booktabs}
 
 \def\tightlist{}
 
